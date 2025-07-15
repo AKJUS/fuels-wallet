@@ -1,5 +1,21 @@
 # fuels-wallet
 
+## 0.58.0
+
+### Minor Changes
+
+- [#1945](https://github.com/FuelLabs/fuels-wallet/pull/1945) [`9df54765`](https://github.com/FuelLabs/fuels-wallet/commit/9df5476507b3b1a53eca5619bbce3b9a62a067a0) Thanks [@nelitow](https://github.com/nelitow)! - fix: make personalSign support signing empty bytes
+
+- [#1949](https://github.com/FuelLabs/fuels-wallet/pull/1949) [`04dba51c`](https://github.com/FuelLabs/fuels-wallet/commit/04dba51c45a8fc9e4e1bfc8c470a78ef34cdb330) Thanks [@nelitow](https://github.com/nelitow)! - fix: Wallet signature of Hashable Messages
+
+### Patch Changes
+
+- [#1948](https://github.com/FuelLabs/fuels-wallet/pull/1948) [`b0df7e03`](https://github.com/FuelLabs/fuels-wallet/commit/b0df7e034c52e2d27681ae7c9af2ff83b6fdfbc7) Thanks [@nelitow](https://github.com/nelitow)! - feat: Add warning for exporting seed phrase of imported private keys
+
+- Updated dependencies []:
+  - @fuel-wallet/connections@0.58.0
+  - @fuels/playwright-utils@0.58.0
+
 ## 0.57.1
 
 ### Patch Changes
