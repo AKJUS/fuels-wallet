@@ -1,5 +1,15 @@
 # fuels-wallet
 
+## 0.59.1
+
+### Patch Changes
+
+- [#1966](https://github.com/FuelLabs/fuels-wallet/pull/1966) [`f307f7aa`](https://github.com/FuelLabs/fuels-wallet/commit/f307f7aae09561225b98768b66000eb27202c19b) Thanks [@nelitow](https://github.com/nelitow)! - fix: Update ecosystem image URLs
+
+- Updated dependencies []:
+  - @fuel-wallet/connections@0.59.1
+  - @fuels/playwright-utils@0.59.1
+
 ## 0.59.0
 
 ### Minor Changes
